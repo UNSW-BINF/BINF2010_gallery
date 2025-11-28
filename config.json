@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "BINF2010's Genome plots (2025)",
+  "title": "BINF2010's Genome plots",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
